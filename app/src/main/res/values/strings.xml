@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyLifeDashboard</string>
+    <string name="import_urg">مهم وعاجل</string>
+    <string name="import_not_urg">مهم وغير عاجل</string>
+    <string name="not_import_urg">غير مهم وعاجل</string>
+    <string name="not_import_not_urg">غير مهم وغير عاجل</string>
 </resources>
